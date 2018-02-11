@@ -256,3 +256,6 @@ TARGET_SYSTEM_PROP += $(PLATFORM_PATH)/system.prop
 
 # Inherit from proprietary files
 include vendor/xiaomi/msm8998-common/BoardConfigVendor.mk
+
+# Enable real time lockscreen charging current values
+BOARD_GLOBAL_CFLAGS += -DBATTERY_REAL_INFO
