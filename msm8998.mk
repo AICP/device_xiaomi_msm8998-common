@@ -290,9 +290,11 @@ PRODUCT_PACKAGES += \
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.qcom \
+    init.parts.rc \
     init.qcom.rc \
     init.qcom.usb.rc \
     init.recovery.qcom.rc \
+    init.spectrum.rc \
     init.target.rc \
     ueventd.qcom.rc
 
