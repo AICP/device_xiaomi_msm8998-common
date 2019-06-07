@@ -43,5 +43,5 @@
 
     <!-- Ambient Display always on -->
     <string name="ambient_display_always_on_title">Always on</string>
-    <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.
+    <string name="ambient_display_always_on_summary">Show time, notification icons, and other info. Increased battery usage.</string>
 </resources>
