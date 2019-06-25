@@ -28,4 +28,6 @@
     <string name="hand_wave_gesture_summary">Meldingen laten knipperen bij handgebaar</string>
     <string name="pocket_gesture_title">Zak</string>
     <string name="pocket_gesture_summary">Meldingen laten knipperen bij verwijderen uit jas- of broekzak</string>
+    <string name="ambient_display_always_on_title">Altijd aan</string>
+    <string name="ambient_display_always_on_summary">Tijd, meldingspictogrammen en andere informatie weergeven. Hoger accuverbruik.</string>
 </resources>

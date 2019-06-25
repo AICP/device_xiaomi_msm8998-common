@@ -28,4 +28,6 @@
     <string name="hand_wave_gesture_summary">Értesítések felvillantása kézzel intéses vezérlésnél</string>
     <string name="pocket_gesture_title">Zseb</string>
     <string name="pocket_gesture_summary">Értesítések felvillantása zsebből kivételkor</string>
+    <string name="ambient_display_always_on_title">Mindig bekapcsolva</string>
+    <string name="ambient_display_always_on_summary">Az idő, az értesítési ikonok és egyéb információk megjelenítése. Növeli az akkuhasználatot.</string>
 </resources>

@@ -28,4 +28,6 @@
     <string name="hand_wave_gesture_summary">Puls powiadomienia przy machnięciu ręką</string>
     <string name="pocket_gesture_title">Kieszeń</string>
     <string name="pocket_gesture_summary">Pulsujące powiadomienia po wyjęciu z kieszeni</string>
+    <string name="ambient_display_always_on_title">Zawsze włączone</string>
+    <string name="ambient_display_always_on_summary">Pokaż czas, ikony powiadomień i inne informacje. Zwiększone zużycie baterii.</string>
 </resources>

@@ -28,4 +28,6 @@
     <string name="hand_wave_gesture_summary">Upozornit pulsováním při mávnutí rukou</string>
     <string name="pocket_gesture_title">Kapsa</string>
     <string name="pocket_gesture_summary">Upozornit pulsováním při vyjmutí z kapsy</string>
+    <string name="ambient_display_always_on_title">Always On</string>
+    <string name="ambient_display_always_on_summary">Zobrazovat čas, ikony upozornění a další informace. Zvýšené využití baterie.</string>
 </resources>

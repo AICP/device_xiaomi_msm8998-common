@@ -38,7 +38,11 @@
     <string name="spectrum_summary">Pilih profil kernel Anda</string>
     <string name="spectrum_dialogTitle">Pilih profil kernel Anda</string>
     <string name="hw_buttons_title">Tombol fisik</string>
+    <string name="swap_hw_buttons_summary">Tukar urutan tombol recent dan kembali</string>
     <string name="usb_fastcharge_title">Pengisian cepat USB</string>
     <string name="fastcharge_title">Hidupkan pengisian cepat USB</string>
+    <string name="cam_switcher_cat">Pengalih Kamera</string>
+    <string name="cam_switcher_title">Kamera yang digunakan</string>
     <string name="cam_dialog_title">Pilih kamera</string>
+    <string name="cam_all">Semua kamera</string>
 </resources>

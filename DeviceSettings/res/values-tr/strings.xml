@@ -28,4 +28,6 @@
     <string name="hand_wave_gesture_summary">El sallayınca bildirimleri göster</string>
     <string name="pocket_gesture_title">Cep</string>
     <string name="pocket_gesture_summary">Cepten çıkarıldığında bildirimleri göster</string>
+    <string name="ambient_display_always_on_title">Her zaman açık</string>
+    <string name="ambient_display_always_on_summary">Saati, bildirim simgelerini ve diğer bilgileri gösterir. Pil kullanımını artırır.</string>
 </resources>

@@ -28,4 +28,6 @@
     <string name="hand_wave_gesture_summary">إشعارات نبضية عند التلويح باليد</string>
     <string name="pocket_gesture_title">الجيب</string>
     <string name="pocket_gesture_summary">إشعارات نبضية عند إخراج الهاتف من الجيب</string>
+    <string name="ambient_display_always_on_title">يعمل دائماً</string>
+    <string name="ambient_display_always_on_summary">إظهار الوقت، رموز الإشعارات ومعلومات أخرى. يزيد من إستخدام البطارية.</string>
 </resources>

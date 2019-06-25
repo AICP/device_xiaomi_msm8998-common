@@ -17,4 +17,15 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_settings_app_name">Configurações avançadas</string>
+    <string name="ambient_display_title">Brilho adaptável</string>
+    <string name="ambient_display_enable_title">Tela ambiente</string>
+    <string name="pickup_sensor_title">Sensor de movimento</string>
+    <string name="pick_up_gesture_title">Pegar</string>
+    <string name="pick_up_gesture_summary">Mostrar as notificações ao pegar o dispositivo</string>
+    <string name="proximity_sensor_title">Sensor de proximidade</string>
+    <string name="hand_wave_gesture_title">Movimento da mão</string>
+    <string name="hand_wave_gesture_summary">Pulsar notificações no movimento da mão</string>
+    <string name="pocket_gesture_title">Bolso</string>
+    <string name="pocket_gesture_summary">Pulsar notificações ao retirar do bolso</string>
 </resources>

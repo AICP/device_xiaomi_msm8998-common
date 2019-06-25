@@ -28,4 +28,6 @@
     <string name="hand_wave_gesture_summary">Отображать уведомления при взмахе рукой</string>
     <string name="pocket_gesture_title">Карман</string>
     <string name="pocket_gesture_summary">Отображать уведомления при извлечении из кармана</string>
+    <string name="ambient_display_always_on_title">Вкл. постоянно</string>
+    <string name="ambient_display_always_on_summary">Показывать время, значки уведомлений и другую информацию. Увеличивает расход батареи.</string>
 </resources>
