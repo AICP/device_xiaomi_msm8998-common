@@ -28,4 +28,6 @@
     <string name="hand_wave_gesture_summary">Kedipkan pemberitahuan saat melambaikan tangan</string>
     <string name="pocket_gesture_title">Saku</string>
     <string name="pocket_gesture_summary">Kedipkan pemberitahuan saat pemindahan dari saku</string>
+    <string name="ambient_display_always_on_title">Selalu aktif</string>
+    <string name="ambient_display_always_on_summary">Tampilkan waktu, ikon pemberitahuan, dan info lainnya. Penggunaan baterai akan meningkat.</string>
 </resources>
